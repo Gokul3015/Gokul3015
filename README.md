@@ -1,6 +1,6 @@
-<!-- ANIMATED CORE SEQUENCE MATRIX -->
+<!-- ANIMATED CORE SEQUENCE MATRIX (DEBUGGED & FIX APPLIED) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3500&pause=1000&color=00FFCC&center=true&vCenter=true&width=900&lines=👋+Hello+World,+I'm+Gokula+Raja+C!;🚀+Aspiring+AI+Backend+Engineer;💻+Crafting+Scalable+Enterprise+Cloud+Solutions;⚡+Optimizing+High-Throughput+Architectures" alt="Gokula Raja C Animation Matrix" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3500&pause=1000&color=00FFCC&center=true&vCenter=true&width=900&lines=👋+Hello+World%2C+I'm+Gokula+Raja+C!;🚀+Aspiring+AI+Backend+Engineer;💻+Crafting+Scalable+Enterprise+Cloud+Solutions;⚡+Optimizing+High-Throughput+Architectures" alt="Gokula Raja C Animation Matrix" />
 </p>
 
 <p align="center">
@@ -54,14 +54,23 @@ I am an engineering student deeply focused on backend software engineering, robu
 
 ### 🚀 Production & Development Showcases
 
-* **🤖 AI-driven ERP Copilot v3**  
-  An enterprise-focused, intelligent orchestration module built to automate back-office operations and sync high-throughput enterprise data layers seamlessly.
-  
-* **🛰️ High-Resolution Satellite Reconstruction Engine**  
-  A heavy-compute neural pipeline designed using PyTorch to process, upscale, and patch spatial noise over satellite tracking telemetry.
+<details open>
+<summary><b>🤖 CLICK TO EXPAND: AI-driven ERP Copilot v3</b></summary>
+<br>
+An enterprise-focused, intelligent orchestration module built to automate back-office operations and sync high-throughput enterprise data layers seamlessly.
+</details>
 
-* **⚡ Autonomous Network Intelligence Clusters**  
-  Self-governing system architecture aiming to map cloud load distribution and maximize server uptime constraints autonomously.
+<details>
+<summary><b>🛰️ CLICK TO EXPAND: High-Resolution Satellite Reconstruction Engine</b></summary>
+<br>
+A heavy-compute neural pipeline designed using PyTorch to process, upscale, and patch spatial noise over satellite tracking telemetry.
+</details>
+
+<details>
+<summary><b>⚡ CLICK TO EXPAND: Autonomous Network Intelligence Clusters</b></summary>
+<br>
+Self-governing system architecture aiming to map cloud load distribution and maximize server uptime constraints autonomously.
+</details>
 
 ---
 
