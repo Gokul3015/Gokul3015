@@ -1,6 +1,11 @@
 <!-- ANIMATED WAVE HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFCC,100:0077B5&height=200&section=header&text=Gokula%20Raja%20C&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI%20Backend%20Engineer&descAlignY=55&descSize=20" alt="Animated Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFCC,100:0077B5&height=200&section=header" alt="Animated Header Banner" />
+</p>
+
+<!-- ANIMATED NAME TAG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&duration=4000&pause=100000&color=00FFCC,0077B5&background=00000000&center=true&vCenter=true&multiline=false&repeat=false&width=700&height=80&lines=Gokula+Raja+C" alt="Animated Name Tag" />
 </p>
 
 <!-- ANIMATED CORE SEQUENCE MATRIX -->
