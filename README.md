@@ -1,11 +1,11 @@
-<!-- ANIMATED WAVE HEADER -->
+<!-- ANIMATED HEADER WITH NAME (capsule-render, no upload needed) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFCC,100:0077B5&height=200&section=header" alt="Animated Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFCC,100:0077B5&height=220&section=header&text=Gokula%20Raja%20C&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Aspiring%20AI%20Backend%20Engineer&descAlignY=55&descSize=18" alt="Animated Header Banner" />
 </p>
 
-<!-- MERGED ANIMATED NAME + TERMINAL TAGLINE BANNER -->
+<!-- ANIMATED ROTATING TAGLINE (readme-typing-svg, no upload needed) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gokul3015/Gokul3015/main/assets/profile-banner.svg" alt="Gokula Raja C" width="700" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=900&color=00FFCC&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hello+World%2C+I'm+Gokula+Raja+C!;%F0%9F%9A%80+Aspiring+AI+Backend+Engineer;%F0%9F%92%BB+Crafting+Scalable+Enterprise+Cloud+Solutions;%E2%9A%A1+Optimizing+High-Throughput+Architectures" alt="Gokula Raja C rotating tagline" />
 </p>
 
 <p align="center">
