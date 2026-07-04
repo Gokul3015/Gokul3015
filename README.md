@@ -3,14 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFCC,100:0077B5&height=200&section=header" alt="Animated Header Banner" />
 </p>
 
-<!-- ANIMATED NAME TAG -->
+<!-- MERGED ANIMATED NAME + TERMINAL TAGLINE BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&duration=4000&pause=100000&color=00FFCC,0077B5&background=00000000&center=true&vCenter=true&multiline=false&repeat=false&width=700&height=80&lines=Gokula+Raja+C" alt="Animated Name Tag" />
-</p>
-
-<!-- ANIMATED CORE SEQUENCE MATRIX -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3500&pause=1000&color=00FFCC&center=true&vCenter=true&width=900&lines=👋+Hello+World%2C+I'm+Gokula+Raja+C!;🚀+Aspiring+AI+Backend+Engineer;💻+Crafting+Scalable+Enterprise+Cloud+Solutions;⚡+Optimizing+High-Throughput+Architectures" alt="Gokula Raja C Animation Matrix" />
+  <img src="https://raw.githubusercontent.com/Gokul3015/Gokul3015/main/assets/profile-banner.svg" alt="Gokula Raja C" width="700" />
 </p>
 
 <p align="center">
